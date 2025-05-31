@@ -2,9 +2,10 @@
 👀 I’m a passionate Data Analyst with hands-on experience in transforming raw data into meaningful insights that drive decision-making.  
 
 🔧 **Technical Skills:**  
+- **Cloud & Big Data Platforms:** Azure, Databricks  , Power Apps, Power Automate
 - **Data Visualization & Reporting:** Power BI  
 - **Data Manipulation & Analysis:** SQL, Python , Power Query
-- **Cloud & Big Data Platforms:** Azure, Databricks  , Power Apps, Power Automate
+
 
 📊 I’ve successfully delivered data-driven projects that helped organizations identify key trends, uncover hidden patterns, and make informed business decisions.  
 
